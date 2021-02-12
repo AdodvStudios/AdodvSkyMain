@@ -1,0 +1,7 @@
+name: AdodvSkyBlock
+main: plugin.adodvstudios.skyblock.Main
+depend: [WorldEdit]
+version: 0.1
+commands:
+  ais:
+    usage: /ais
